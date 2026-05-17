@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jasekeee&label=Profile%20views&color=0e75b6&style=flat" />
 <a href="https://github.com/Jasekeee?tab=followers"><img src="https://img.shields.io/github/followers/Jasekeee?label=Followers&style=social" /></a>
 <a href="https://github.com/Jasekeee?tab=repositories"><img src="https://img.shields.io/github/stars/Jasekeee?label=Stars&style=social" /></a>
-<a href="https://x.com/Jaseke_"><img src="https://img.shields.io/badge/X-2.1K%20followers-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
+<a href="https://x.com/Jaseke_"><img src="https://img.shields.io/twitter/follow/Jaseke_?label=Follow&style=social&logo=x" /></a>
 
 </div>
 
