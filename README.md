@@ -49,6 +49,6 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake.gif)
 
 </div>
