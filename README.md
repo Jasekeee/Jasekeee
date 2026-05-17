@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jasekeee&theme=darkhub&row=1&column=10&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Jasekeee&theme=darkhub&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
 
 </div>
 
