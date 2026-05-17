@@ -41,7 +41,6 @@
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake.gif)
 
 </div>
 
@@ -49,6 +48,5 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake.gif)
 
 </div>
