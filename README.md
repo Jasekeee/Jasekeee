@@ -44,3 +44,11 @@
 ![snake animation](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake.gif)
 
 </div>
+
+<br>
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Jasekeee/Jasekeee/output/github-snake-dark.svg)
+
+</div>
